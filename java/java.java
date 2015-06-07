@@ -1,8 +1,7 @@
 public static void main (String args[]) {
   String[] you = {"squ", "k"};
   while (true) {
-    for (String s: you) {
-      System.out.println("You're a " + s + "id now!");
-    }
+    System.out.println("You're a kid now!");
+    System.out.println("You're a squid now!");
   }
 }
