@@ -1,0 +1,13 @@
+$you: ("squ", "k");
+$i: 0;
+
+// no infinite loops ;_;
+@while $i < 100 {
+  @each $e in $you {
+    #splat:before {
+      content: "You're a #{$e}id now!";
+      transition: .5s content;
+    }
+  }
+  $i: $i + 1;
+}
