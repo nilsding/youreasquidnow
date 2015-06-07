@@ -11,4 +11,5 @@ int main(int argc, char** argv)
             std::cout << "You're a " << x << "id now!" << std::endl;
         });
     }
+    return 0;
 }
