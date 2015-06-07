@@ -2,5 +2,5 @@
 
 y = ["K", "Squ"]
 while True:
-	for x in y:
-		print("You're a "+x+"id now!")
+    for x in y:
+        print("You're a " + x + "id now!")
