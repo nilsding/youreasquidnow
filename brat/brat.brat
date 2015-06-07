@@ -1,0 +1,7 @@
+you = ["squ", "k"]
+
+while {
+  you.map { e |
+    p "You're a #{e}id now!"
+  } 
+}
