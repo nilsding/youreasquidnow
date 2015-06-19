@@ -1,16 +1,12 @@
 package main
 
-import (
-    "fmt"
-)
+import "fmt"
 
 func main() {
-	y := [2]string{"K", "Squ"}
-	for {
-		for i := 0; i < len(y); i++ {
-			fmt.Printf("You're a ")
-			fmt.Printf(y[i])
-			fmt.Printf("id now!\n")
-		}
-	}
+ a := []string{"k", "squ"}
+ for {
+  for _, v := range a {
+   fmt.Printf("You're a %sid now!\n", val)
+  }
+ }
 }
