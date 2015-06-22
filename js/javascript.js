@@ -1,7 +1,1 @@
-var a = ["squ", "k"]
-
-while (true) {
-  for (i in a) {
-    console.log("You're a %sid now!", a[i])
-  }
-}
+while(1) ["squ", "k"].map(function(x) {console.log("You're a %sid now!",x)});
