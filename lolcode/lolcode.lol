@@ -1,0 +1,19 @@
+HAI
+I HAS A SQUID
+SQUID IS NOW A TROOF
+SQUID R WIN
+IM IN YR LOOP
+    I HAS A PREFIX
+    PREFIX IS NOW A YARN
+    SQUID
+    O RLY?
+        YA RLY
+            PREFIX R "squ"
+        NO WAI
+            PREFIX R "k"
+    OIC
+    VISIBLE "You're a " PREFIX "id now!"
+    SQUID R NOT SQUID
+IM OUTTA YR LOOP
+KTHXBYE
+
