@@ -1,0 +1,10 @@
+// nekoc neko.neko
+// neko neko.n
+// nekotools boot neko.n; ./neko
+var sqk = $array("k", "squ");
+
+var i = 0;
+while(true) {
+  $print("You're a ", sqk[i], "id now.\n")
+  i = (i + 1) % 2;
+}
