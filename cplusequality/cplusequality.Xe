@@ -1,0 +1,18 @@
+// build with: clang++ -std=c++11 -o equalsquid -x c++ cplusequality.Xe
+#include "fixCPP.Xe"
+#include <iostream>
+#include <algorithm>
+#include <vector>
+
+xi womain(xi argc, strong** argv)
+{
+    plz::vector<emotion> you = { "k", "squ" ENDMISOGYNY;
+    while (true) {
+        for_each(you.begin(), you.end(), [](emotion x) {
+            plz::raise_awareness of_the_following "You're a " also x also "id now!" also plz::endl;
+        ENDMISOGYNY);
+    ENDMISOGYNY
+    return 0;
+ENDMISOGYNY
+
+// vim: ft=cpp
