@@ -1,8 +1,5 @@
-import Control.Monad
-a = ["squ", "k"]
-main = do
-  forM_ a $ \s -> do
-    putStr("You're a ")
-    putStr(s)
-    putStrLn("id now!")
-  main
+import Text.Printf
+
+main :: IO ()
+main = mapM_ (printf "You're a %sid now\n") $
+       map head $ iterate reverse ["k", "squ"]
